@@ -18,6 +18,10 @@ public class DriverAlbum
         
         song1.play();
         song1.play();
+        song1.play();
+        song1.play();
+        song1.play();
+        song1.play();
         
         song2.setTitle("Photography");
         song2.setArtist("Ed Sheeran");
