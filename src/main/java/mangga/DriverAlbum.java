@@ -19,6 +19,7 @@ public class DriverAlbum
         song2.setTitle("Photography");
         song2.setArtist("Ed Sheeran");
         song2.setDuration(274);
+        song2.play();
         
         Album album = new Album();
         album.setTitle("Pernah Hits");
